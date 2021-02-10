@@ -71,7 +71,7 @@ function NavBar() {
                 className="nav-link"
                 href="mailto:pawans.ug19.ec@nitp.ac.in"
               >
-                <span className="fa fa-envelope fa-lg"></span>
+                <span className="fas fa-envelope fa-lg"></span>
               </NavLink1>
             </NavItem>
             <NavItem>

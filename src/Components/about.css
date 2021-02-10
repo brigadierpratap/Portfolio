@@ -40,8 +40,8 @@
   height: 210px;
   border-radius: 50%;
   border: 25px solid transparent;
-  border-top-color: #f44556;
-  border-right-color: #f44556;
+  border-top-color: #0086b3;
+  border-right-color: #0086b3;
   z-index: 1;
   transform: rotate(45deg);
 }
@@ -55,14 +55,14 @@
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
   font-size: 30px;
   font-weight: 700;
-  color: #f44556;
+  color: #0086b3;
   text-align: center;
   transform: rotate(-45deg);
 }
 .main-timeline5 .timeline-content {
   width: 35%;
   float: right;
-  background: #f44556;
+  background: #0086b3;
   padding: 30px 20px;
   margin: 50px 0;
   z-index: 1;
@@ -72,7 +72,7 @@
   content: "";
   width: 20%;
   height: 15px;
-  background: #f44556;
+  background: #0086b3;
   position: absolute;
   top: 50%;
   left: -20%;

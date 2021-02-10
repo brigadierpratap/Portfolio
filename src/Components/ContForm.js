@@ -114,7 +114,10 @@ export default class ContForm extends React.Component {
         Accept: "*/*",
       },
     })
-      .then((res) => console.log(res))
+      .then((res) => {
+        form.reset();
+        this.setState({ status: "SUCCESS" });
+      })
       .catch((err) => this.setState({ status: "ERROR" }));
   }
 }
