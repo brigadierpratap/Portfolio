@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer
       id="sticky-footer"
-      className="footer fixed-bottom bg-transparent text-light"
+      className="footer fixed-bottom bg-dark text-light"
       style={{
         bottom: "0",
         height: "2.8rem",
